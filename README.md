@@ -11,6 +11,7 @@ _Estos son los proyectos realizados hasta el momento._
 * **I Am Poor**: Una aplicacion de la misma forma que I am Rich pero en su contraparte.
 * **Presentation Card**: Una carta de presentación con mis datos.
 * **Dicey**: Una aplicación para tirar dados.
+* **8 Ball**: Una aplicación de la clásica bola 8 de la suerte.
 
 
 
