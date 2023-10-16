@@ -13,6 +13,7 @@ _Estos son los proyectos realizados hasta el momento._
 * **Dicey**: Una aplicación para tirar dados.
 * **8 Ball**: Una aplicación de la clásica bola 8 de la suerte.
 * **Xylophone**: Una aplicación con un instrumento musical.
+* **Quizzler**: Una juego de preguntas de verdadero o falso.
 
 
 ### Pre-requisitos 📋
